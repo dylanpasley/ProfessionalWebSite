@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/favicon.ico": false,
+        "**/karma.conf.js": true,
+        "**/environments": true,
+        "**/assets": false,
+        "**/browserslist": true,
+    }
+}
